@@ -14,3 +14,6 @@ Access the official Python website here: [Python Website](https://www.python.org
 
 ## Meme
 ![pikachu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTvpXOEZY9oAMawS-BflAkjM7GETuaL3UD3w&s)
+
+## Screenshot of pip install
+![pip install](pipInstallNumpy.png)
