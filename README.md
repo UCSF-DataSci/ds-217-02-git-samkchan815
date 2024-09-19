@@ -13,4 +13,4 @@ For assignment 1, the sum I got was 233168.
 Access the official Python website here: [Python Website](https://www.python.org)
 
 ## Meme
-!(https://www.google.com/search?client=ms-android-samsung-rvo1&sa=N&sca_esv=cdf69acd155fddf3&sca_upv=1&udm=2&source=univ&cs=0&q=shocked+face+pikachu+meme&stick=H4sIAAAAAAAAAFvEKlmckZ-cnZqikJaYnKpQkJmdmJxRqpCbmpsKAG_I3ygcAAAA&ved=2ahUKEwi31bO708-IAxXHJEQIHeIvA7M4HhCs3AJ6BAhkEAA&biw=360&bih=703&dpr=3#vhid=vJgF-MNH0pOptM&vssid=mosaic)
+![pikachu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTvpXOEZY9oAMawS-BflAkjM7GETuaL3UD3w&s)
